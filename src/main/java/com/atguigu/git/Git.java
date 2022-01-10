@@ -13,5 +13,6 @@ public class Git {
         System.out.println("hello git5!");
         System.out.println("hello git5!");
         System.out.println("hello git5!");
+        System.out.println("push git5!");
     }
 }
